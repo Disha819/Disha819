@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+# What I am on it..
+- item 1
+- item 2
+# My Skills
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker,git,java,kafka,linux,dynamodb,mysql,py,r,github,postgres,powershell,pytorch,sqlite,selenium,tensorflow,vscode&perline=20)](https://skillicons.dev)
 <!--
 **Disha819/Disha819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
